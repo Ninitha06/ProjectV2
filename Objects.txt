@@ -4,6 +4,8 @@ ALWAYS LOGIN TO p5 editor first to make any changes or to do projects. And then 
 Go to File -> Duplicate to create your copy. Rename your file to Project1 and then start making changes.
 
 
+ALWAYS OPEN YOUR CLASS FILES IN A NEW TAB AND REFER THEM TO DO PROJECTS. Click on link on the top right side, Go to My Sketches-> Click on the file name to open it.
+
 
 
 
