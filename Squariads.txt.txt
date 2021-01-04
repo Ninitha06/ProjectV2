@@ -1,0 +1,8 @@
+1. Outside function draw at the top,
+create pins and squariads using createSprite
+Example : var pin1 = createSprite(240,340,20,20);
+
+2. All pins and the shooting squariad should bounce off when they collide with the edges of the canvas.
+3. All pins and the squariad should only bounce against each other when they collide
+4. When the project is played, the shooting squariad should be released with:
+ X velocity of 6 and Y velocity of 0.5.

@@ -1,0 +1,28 @@
+1. outside setup function :
+Declare your variables
+var b1;
+
+2. Inside setup function :
+Create a new object
+b1 = new Building();
+
+3. Inside setup function :
+set the floors and position of the building
+b1. floors = 10;
+b1.position = 4;
+
+4. Inside draw function : 
+Call the display function
+
+b1. display();
+
+Similarly, create multiple buildings for Additional Goal 1 and a garden and building for Additional Goal 2.
+
+
+Hints:
+
+By skipping some numbers in the position property between two buildings, you can
+create empty spaces.
+Try and organise buildings of differing heights so that smaller buildings do not fall in
+the shadow of the bigger ones, and hence get less light and air.
+Build buildings of differing heights, to give your city a unique character.
