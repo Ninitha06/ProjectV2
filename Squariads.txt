@@ -1,3 +1,7 @@
+IMPORTANT : 
+ALWAYS OPEN YOUR CLASS FILES IN A NEW TAB AND REFER THEM TO DO PROJECTS. Click on link on the top right side, Go to My Projects-> Click on the file name to open it.
+
+
 1. Outside function draw at the top,
 create pins and squariads using createSprite
 Example : var pin1 = createSprite(240,340,20,20);
