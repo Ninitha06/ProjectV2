@@ -1,4 +1,14 @@
-1. outside setup function :
+IMPORTANT :
+
+ALWAYS LOGIN TO p5 editor first to make any changes or to do projects. And then click on the link given in project document. 
+Go to File -> Duplicate to create your copy. Rename your file to Project1 and then start making changes.
+
+
+
+
+
+
+1. outside setup function at the top :
 Declare your variables
 var b1;
 
