@@ -1,5 +1,6 @@
 IMPORTANT : 
-ALWAYS OPEN YOUR CLASS FILES IN A NEW TAB AND REFER THEM TO DO PROJECTS. Click on link on the top right side, Go to My Projects-> Click on the file name to open it.
+ALWAYS OPEN YOUR CLASS FILES IN A NEW TAB AND REFER THEM TO DO PROJECTS. 
+Go to studio.code.org... Login with ur details. Click on your account name on the top right side, Go to My Projects-> Click on the file name to open it.
 
 
 1. Outside function draw at the top,
